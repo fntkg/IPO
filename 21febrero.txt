@@ -1,0 +1,25 @@
+Resultado del analisis etnografico: Ver que hacen los usuarios SIN LA APP (obviamente, porque no esta hecha aun)
+				    Que problemas hallan estos usuarios
+
+	Creo que esto se trata de ver que puede salir mal en cada paso que dan
+	Describir el proceso de compra de un usuario en IKEA (ejercicio 3 problemas de requisitos)
+	
+Cojer carrito o carro gigante
+Mirar el mapa para buscar algo especifico
+O simplemente comenzar a andar
+
+Si busca algo especifico:
+	Va al modulo de almacenaje
+	Llega al pasillo que corresponde
+	Encuentra lo que busca (una mesa por example)
+	Lo mete en el carro
+	Va al modulo de pagar
+	
+	El usuario puede perderse.
+	El usuario puede tener problemas de espacio en el carrito
+
+Si no busca algo especifico:
+
+
+OJO QUE HAY QUE DIFERENCIAR AL TIPO DE PERSONAS YA QUE TIENEN DISTINTOS PROBLEMAS
+En este caso, diferenciamos quien quiere algo en concreto y quien simplemente va a ver que hay.

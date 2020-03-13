@@ -1,0 +1,16 @@
+Ejercicio 1, 2º pdf de problemas
+Funcionalidades mas representativas de mi telefono movil
+-Autentificar
+-Hacer fotos
+-Descargar aplicaciones
+-Llamar a un numero desconocido
+-Llamar a un contacto de la agenda
+-Añadir, modificar o borrar gente de mi agenda
+-Escribir mensajes a numeros desconocidos
+-Escribir mensajes a contactos de la agenda
+-Escuchar musica
+-Eliminar musica
+-Gestionar los archivos del dispositivo
+-Realizar busquedas en internet
+-Gestionar redes wifi disponibles
+-Gestionar las fotos realizadas

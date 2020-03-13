@@ -1,0 +1,21 @@
+EJERCICIO 5 (Problemas analisis de requisitos II)
+
+4 Requisitos NO funcionales no ligados con la usabilidad
+
+	- La identificación del gerente y de los usuarios debe estar cifrada
+	- Los datos de las personas han de ser privados
+	- Los datos de las personas no deben de invadir su privacidad
+		Esto podría decirse como que el sistema respetara la ley de proteccion de datos
+	- Tanto el gerente como los usuarios deben poder iniciar sesion desde cualquier dispositivo
+
+Objetivos de usabilidad de la aplicación, 4 medidas y ligarlas con los 3 aspectos basicos de usabilidad
+LOS OBJETIVOS DE USABILIDAD SON PARA UNA TAREA EN CONCRETO
+
+	- Podemos medir cuantas personas lograron alquilar cuando se meten a la aplicación para alquilar un piso
+		Por ejemplo 9/10 -- Esto estaría ligado con la EFICACIA
+	- Tiempo que tardan las personas en alquilar un piso
+		Por ejemplo X minutos -- Esto estaría ligado a EFICIENCIA
+	- Que me puntuen los clientes en la busqueda de pisos
+		Por ejemplo un 8/10 -- Esto estaria ligado a SATISFACCION
+	Otra medida, que los clientes vuelvan a usar la pagina en menos de x tiempo
+	O que los clientes no abandonen rapido la pagina
