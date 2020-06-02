@@ -170,3 +170,26 @@ Sin embargo, al editar la información pública de la cuenta, al tener un parám
 El sitio no ofrece ningún tipo de soporte mas que un apartado de preguntas y respuestas al ir a la pestaña de "foro" o de "2ª mano", sin embargo, estas preguntas y respuestas no tienen que ver solo respecto al foros (por lo que no tiene mucho sentido que esta opcion se encuentre en los foros.
 
 ![](https://i.imgur.com/GRT4OoL.png)
+
+## Parte 2
+
+En primer lugar, respecto a la representación del estado del usuario, yo haría que este estuviese en una zona fija en la pantalla al igual que el menu de navegación, esto mejoraría la experiencia de navegación ya que el usuario no tendrá que recordar donde se encuentra en cada momento
+
+También cambiaría la distribución de los diferentes apartados de la web ya que por ejemplo, no hay diferencia entre foros comunes y foros de venta/compra de armas (mas que el titulo, el cual se pierde de vista si haces scroll). AL cambiar la distribución, el usuario sabrá de manera mas sencilla donde se encuentra.
+
+Respecto al control, simplemente implementaría en los foros (tanto comunes como los de compra/venta) una vista prevía al pulsar en el boton de **enviar** (ya hay vista previa pero no es obligada), esto ayudaría a que los usuarios puedan revisar el contenido de lo que van a subir.
+
+Respecto a la consistencia y estándares, en primer lugar se cambiaría el color blanco de la fuente de los subtitulos a un negro suave (#333333 por ejemplo) para que los usuarios con problemas de vista sean capaces de verlos claramente, en segundo lugar se cambiarian los iconos de "filtrar busqueda" a algo asi: ![](https://i.imgur.com/2Hiyg47.png) ya que este icono se encuentra mucho mas normalizado para la función comentada. Tambien se sustituiría el icono de el engranaje de las opciones de una entrada de un foro: ![](https://i.imgur.com/rN5cMLr.png) por algo mas acorde a su función, por ejemplo: ![](https://i.imgur.com/GzBbBhn.png)
+
+Respecto a la prevención de errores, si que se retocaría la forma de crear una entrada en un foro, especialmente en los de compra/venta que deben de tener un formato correcto. Por ejemplo, al estar creando una entrada que salga un "placeholder" con los diferentes elementos que debe tener el contenido, algo como en la imagen por ejemplo: 
+
+![](https://i.imgur.com/o1oVAlz.png)
+
+Tambien se añadiría un acceso directo al perfil y su configuración de un usuario en todas las pantallas para evitar tener que ir siempre a los foros para poder llegar a este, por ejemplo: 
+
+![](https://i.imgur.com/3suJcFG.png)
+
+También, disminuiría la publicidad considerablemente todo lo que la empresa lo permitiera. Por lo menos, no metería publicidad entre los articulos ya que clickar en ella de manera accidental puede ser motivo para que un usuario deje de visitar el sitio web por completo.
+
+## Parte 3
+
