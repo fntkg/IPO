@@ -92,6 +92,8 @@ Si se observa la siguiente imagen, se ve que el icono de la llave inglesa abre u
 
 En la misma imagen anterior, el icono del engranaje tambien puede dar lugar a dudas ya que si se clicka en el lleva a un filtro de búsqueda, cosa que no es obvia ya que en la actualidad existen varios iconos "normalizados" para un filtro de búsqueda.
 
+Tampoco es acertada la elección del color de la fuente (blanco) con un fondo verde ya que el contraste es mínimo haciendo así muy complicada la lectura (en las subcategorias de los foros).
+
 **Prevención de errores:**
 
 > El sitio tiene un diseño cuidadoso que intenta evitar que el usuario cometa errores
