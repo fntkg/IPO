@@ -193,3 +193,26 @@ También, disminuiría la publicidad considerablemente todo lo que la empresa lo
 
 ## Parte 3
 
+Como anteriormente se ha visto que se hechaban de menos diferentes iconos, o también una forma de acceder a la cuenta de usuario de manera mas sencilla... Se ha llegado a la conclusión de que 1ª forma de evaluación que se llevaría a cabo sería  la de "Evaluación con usuarios: Pensando en voz alta" aunque también se complentaría con un "eye-tracking" para ver a que zonas de las pantallas van a buscar los usuarios ciertos elementos comunes a páginas web similares a la evaluada. Esto sería muy util a la hora de saber donde los usuarios estan a acostumbrados a tener los elementos de uso mas común. Al pensar en voz alta también se conseguiría comprobar si la creación de entradas en los foros es sencilla e  intuitiva.
+
+Cómo ventajas a este método sería que es sencillo de realizar y sencillo de sacar conclusiones al analizar a diferentes sujetos.
+
+Como desventajas apuntaría que los usuarios al no estar en un ambiente "natural" pueden sentirse bajo presión y no realizar correctamente el pensar en voz alta dejando así un análisis incompleto o incluso erróneo.
+
+Como 2º método de evaluación se usaría "Evaluación con usuarios: Grupos de discusión dirigidos" ya que, como el sitio web esta pensado para usar de manera cotidiana (noticias, foros...), nada mejor que los usuarios que la usan de forma diaria sean los que evaluen el sitio, esto permitiría la recolección de muchas ideas que vayan saliendo a lo largo de los temas dispuestos para el grupo.
+
+**Plan de evaluación:** Evaluación con usuarios: Pensando en voz alta
+
+- Objetivo de la evaluación: Valorar la usabilidad de la página web desde el punto de vista de los usuarios, valorar a su vez si se sienten cómodos en ella.
+
+- Participantes: Lo ideal sería usar usuarios participantes de sitios web parecidos (foros y periódicos online) para comprobar así si el sitio web se adecúa a su propósito. El número de participantes no hace falta que sea muy alto, con 5/6 usuarios sería suficiente para sacar varios problemas de usabilidad y se les recompensaría con un pequeño dote económico por su colaboración.
+
+- Metodología: El lugar del experimento sería en un laboratorio especializado (por el tema del "eye-tracking"), se usarían una webcam para el seguimiento de la vista, un programa que grabe la situación del cursor en todo momento y una grabadora de voz para lo que diga el usuario. Las tareas para el usuario serían: navegar a un tipo de artículos en concreto (armas blanca por ejemplo) y leer uno de ellos, también seria la creación y post-configuración de una cuenta y por último, crear una entrada en un foro y responder en otros. Las medidas que se tomarán serán las anteriores indicadas: movimiento del cursor, movimiento de la vista y comentarios que diga el usuario en voz alta.
+
+**Plan de evaluación:** Evaluación con usuarios: Grupo discusión dirigido
+
+- Objetivo de la evaluación: Mejorar la experiencia de uso de los usuarios mas cotidianos, es decir, refinar el prototipo de acuerdo a las experiencias de uso de los sujetos.
+
+- Participantes: En esta evaluación se trataría de tomar unos 8/9 participantes que usen el sitio web de manera habitual, se les mandaría un mensaje a sus cuentas de usuario para ver si desean participar en la evaluación y se les incentivaría con una pequeña recompensa económica.
+
+- Metodología: Se llevaría a cabo en una sala de reuniones cualquiera en la que quepan los 8/9 usuarios y un par de personas que tomen notas de todo lo que surge en la reunión, se guiaría la reunión mediante preguntas de diferentes apartados del sitio web de manera que al final, las preguntas hayan sido relacionadas con toda la web. Se tomarán todas las medidas que los responsables consideren necesarias para un aumento positivo de la experiencia de uso de la web
